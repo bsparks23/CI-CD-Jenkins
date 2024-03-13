@@ -1,0 +1,1 @@
+CI/CD pipeline using Jenkins, AWS, Docker, GitHub, and Flask. The pipeline builds a simple Flask application, tests it, and then deploys it to the server. The Flask application is containerized using Docker to make it portable and scalable. 
